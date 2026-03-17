@@ -1,4 +1,4 @@
-## Projeto inicial de um gerenciador de senhas com o python! --------------------------------------------------------------------------------------------------------------------------------------------------
+## Projeto inicial de um gerenciador de senhas com o python! ---------------------------------------------------------------------------------------------------------------------------------------------
 
 A ideia começou como uma forma de estudar e praticar lógica de programação e estruturas de dados, e está evoluindo aos poucos com o objetivo de se tornar algo mais completo, com usabilidade e segurança.
 Ainda está bem no começo, mas vou evoluindo aos poucos e melhorando o código conforme aprendo mais.

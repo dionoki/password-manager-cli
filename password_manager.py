@@ -7,7 +7,7 @@ senhasdousuario = {
  
   
 'gmail': { 
-    'login': 'kelvin@gmail.com', # type: ignore
+    'login': 'usuario@gmail.com', # type: ignore
     'senha': '32'
    },
 

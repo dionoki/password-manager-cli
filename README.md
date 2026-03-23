@@ -5,19 +5,17 @@ Ainda está bem no começo, mas vou evoluindo aos poucos e melhorando o código 
 
 ## O que já tem -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Armazenamento de serviços (gmail, netflix, etc)
-- Login e senha organizados em dicionários
-- Verificação com senha mestre
-- Tratamento básico de input
-
-Se notar, é possivel ver que a 'senha-mestre' descrita como exemplo está em string, relaxa que esse é somente o teste inicial.
+- Armazenamento de serviços e sistema limpo
+- Criptografia SHA-256 na Senha Mestra.
+- Criptografia Fernet nas senhas e logins salvos.
+- Código organizado e fácil de ler.
 
 O meu objetivo final é:
 
-- Aprender a organizar melhor o código
-- Melhorar a segurança
-- Criar um menu mais estruturado
-- Futuramente transformar em uma interface usavel!
+- Construir uma interface intuitiva e bonita de se ver.
+- Melhorar a infraestrutura do sistema
+- Estudar mais sobre as criptografias usadas e ver no que posso melhorar na segurança
+- Ser um aplicativo completo e utilizavel pra qualquer pessoa.
   
 
 Espero que eu continue evoluindo aos poucos, este é meu primeiro projeto da vida, estou aprendendo, estudando e praticando ao mesmo tempo!
